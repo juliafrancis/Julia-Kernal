@@ -1,4 +1,4 @@
-﻿using Presentation.Plugins;
+﻿using Plugins;
 using Wasmtime;
 
 namespace Presentation;

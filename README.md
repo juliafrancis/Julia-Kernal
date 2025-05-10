@@ -40,9 +40,9 @@ JuliaKernel/
 │       └── agent.wasm
 ├── Plugins/              # Plugin modules (e.g., TxExecutor)
 │   └── TxExecutor.cs
-├── CliTool/              # Console app to initialize, deploy, and monitor agents
+├── Presentation/              # Console app to initialize, deploy, and monitor agents
 │   └── Program.cs
-├── WebDashboard/         # (optional) ASP.NET Core UI
+├── WebAPI/         # (optional) API for web and mobile apps
 └── README.md
 ```
 
