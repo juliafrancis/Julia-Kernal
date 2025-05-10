@@ -106,5 +106,5 @@ JuliaKernel/
 
 ## 👷 Author & Contribution
 
-Created by [Your Name or Org].  
+Created by Julia Francis.  
 Contributions, ideas, and plugin submissions are welcome via pull requests.
