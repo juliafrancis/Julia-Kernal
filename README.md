@@ -42,7 +42,7 @@ JuliaKernel/
 │   └── TxExecutor.cs
 ├── Presentation/              # Console app to initialize, deploy, and monitor agents
 │   └── Program.cs
-├── WebAPI/         # (optional) API for web and mobile apps
+├── WebAPI/         # (comingsoon) API for web and mobile apps
 └── README.md
 ```
 
