@@ -1,12 +1,12 @@
-# JuliaKernel
+# Julia
 
-**JuliaKernel** is a modular execution framework for secure, permissioned AI agents on Web3. Inspired by the original JuliaKernel, this .NET version focuses on building a robust WASM-based sandbox for agent execution, plugin-based extensibility, and multi-chain compatibility.
+**Julia** is a modular execution framework for secure, permissioned AI agents on Web3. Inspired by the original Julia, this .NET version focuses on building a robust WASM-based sandbox for agent execution, plugin-based extensibility, and multi-chain compatibility.
 
 ---
 
 ## 🚀 Overview
 
-JuliaKernel enables developers to create autonomous agents that operate across blockchain networks securely and transparently. Each agent runs inside a WebAssembly (WASM) sandbox, governed by a manifest-based permission system, and interacts with onchain resources via modular plugins.
+Julia enables developers to create autonomous agents that operate across blockchain networks securely and transparently. Each agent runs inside a WebAssembly (WASM) sandbox, governed by a manifest-based permission system, and interacts with onchain resources via modular plugins.
 
 ---
 
@@ -28,7 +28,7 @@ JuliaKernel enables developers to create autonomous agents that operate across b
 ## 📂 Project Structure
 
 ```text
-JuliaKernel/
+Julia/
 ├── KernelCore/           # Core logic (runner, manifest, plugin system)
 │   ├── AgentRunner.cs
 │   ├── Manifest.cs
@@ -71,7 +71,7 @@ JuliaKernel/
 3. Add necessary plugins like `tx_executor` or `chain_query`.
 4. Deploy using CLI:
    ```bash
-   juliakernel run meme_sniper
+   Julia run meme_sniper
    ```
 
 ---
